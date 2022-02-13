@@ -26,5 +26,5 @@
 // let a = '123' 
 //  console.log(typeof Number(a))
 //явное преобразование в boolean 
-let a = 123
-console.log(typeof Boolean(a))
+// let a = 123
+// console.log(typeof Boolean(a))
