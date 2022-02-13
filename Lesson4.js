@@ -5,8 +5,6 @@
 // number + boolean 
 // console.log(23 + true);
 
-const { boolean } = require("yargs")
-
 //string * boolean 
 // console.log('smth' * true)
 // string * number
